@@ -8,7 +8,7 @@ I am a passionate and motivated **Computer Science Engineering Student** at Anil
 ### 🚀 About Me
 - 🔭 **Current Focus**: Seeking an Internship or Entry-Level Software Development Position.
 - 💼 **Past Experience**: 
-  - Web Development Intern at *Vaults of Code*
+  - Web Development Intern at *SkillDzire*
   - Machine Learning Intern at *istudio*
 - 🧠 **Problem Solving**: Solved **140 coding problems** on LeetCode.
 - ⚡ **Fun Fact**: I actively participate in coding competitions and cybersecurity workshops to stay sharp.
@@ -18,7 +18,7 @@ I am a passionate and motivated **Computer Science Engineering Student** at Anil
 - **Languages**: `C` | `Python` | `Java`
 - **Web Development**: `HTML5` | `CSS3` | `JavaScript`
 - **Databases**: `MySQL` | `MongoDB`
-- **Tools & Platforms**: `Git` | `GitHub` | `Scikit-learn` | `Pandas` | `NumPy`
+- **Tools & Platforms**: `Git` | `GitHub` | `Scikit-learn` | `Pandas` | `NumPy` | `UI/UX`
 
 ### 📈 GitHub Stats
 📊 *Check out my development activity below:*
@@ -29,3 +29,4 @@ Let's build something great together!
 - 📧 **Email**: gorlevarshini05@gmail.com
 - 📍 **Location**: Visakhapatnam, India
 - 💼 **LeetCode Profile**: https://leetcode.com/u/Varsha0705
+- **MY Portfolio**:my-potfolio-livid-eight.vercel.app
