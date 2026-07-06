@@ -29,4 +29,4 @@ Let's build something great together!
 - 📧 **Email**: gorlevarshini05@gmail.com
 - 📍 **Location**: Visakhapatnam, India
 - 💼 **LeetCode Profile**: https://leetcode.com/u/Varsha0705
-- **MY Portfolio**:my-potfolio-livid-eight.vercel.app
+- **MY Portfolio**: my-potfolio-livid-eight.vercel.app
